@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ FashionStore Database Project (PostgreSQL)
 
 Este projeto demonstra a criação e manipulação de um banco de dados relacional para uma loja de moda/vestuário utilizando PostgreSQL.
@@ -30,3 +31,6 @@ O banco de dados, chamado `fashionstore`, é composto pelas seguintes tabelas:
     * Abra o **Query Tool** no banco de dados `fashionstore`.
     * Copie e cole o conteúdo do script **`fashionstore_completo.sql`**.
     * Execute (ícone de raio ⚡) o script completo para criar, popular e demonstrar todas as funcionalidades do banco em uma única execução.
+=======
+# Banco-de-Dados-SQL---MiniMundo-EntregaFashionStore
+>>>>>>> 4ade40fb742a6fe7521f446340eeddf63ef3e98c
